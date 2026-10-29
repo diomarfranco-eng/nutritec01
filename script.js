@@ -3,7 +3,7 @@
       {
         id: 1,
         name: "Mousse de Frutas Amarelas",
-        img: "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&h=400&fit=crop",
+        img: "https://i.pinimg.com/1200x/6d/d9/a0/6dd9a0e67c6d8d758872b25d3f0dc21d.jpg",
         desc: "Mousse leve de manga e maracujá com leite de coco. Textura cremosa e rica em vitaminas A e C.",
         texture: ["cremoso"],
         color: ["amarelo"],
